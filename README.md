@@ -16,5 +16,5 @@ Need the Administrator Authority
 
 ## release
 
-- netuseradd.exe    Add an Administrator User(Username：ordinary Password：123456abc)
-- netuserdel.exe    Delete the User which named "ordinary"(netuseradd.exe add it minutes ago)
+- [netuseradd.exe](https://github.com/cckuailong/netuser/releases/tag/v0.1)    Add an Administrator User(Username：ordinary Password：123456abc)
+- [netuserdel.exe](https://github.com/cckuailong/netuser/releases/tag/v0.1)    Delete the User which named "ordinary"(netuseradd.exe add it minutes ago)

@@ -16,5 +16,5 @@
 
 ## release
 
-- netuseradd.exe    添加一个帐号(用户名：ordinary 密码：123456abc)
-- netuserdel.exe    删除名字为ordinary的用户（netuseradd.exe新创建的）
+- [netuseradd.exe](https://github.com/cckuailong/netuser/releases/tag/v0.1)    添加一个帐号(用户名：ordinary 密码：123456abc)
+- [netuserdel.exe](https://github.com/cckuailong/netuser/releases/tag/v0.1)    删除名字为ordinary的用户（netuseradd.exe新创建的）
